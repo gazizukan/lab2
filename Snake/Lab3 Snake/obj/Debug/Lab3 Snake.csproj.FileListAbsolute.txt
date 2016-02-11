@@ -1,0 +1,2 @@
+c:\users\администратор\documents\visual studio 2013\Projects\Snake\Lab3 Snake\bin\Debug\Lab3 Snake.exe.config
+c:\users\администратор\documents\visual studio 2013\Projects\Snake\Lab3 Snake\obj\Debug\Lab3 Snake.csprojResolveAssemblyReference.cache
