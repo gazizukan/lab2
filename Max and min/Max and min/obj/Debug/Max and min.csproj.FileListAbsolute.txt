@@ -1,0 +1,6 @@
+c:\users\администратор\documents\visual studio 2013\Projects\Max and min\Max and min\bin\Debug\Max and min.exe.config
+c:\users\администратор\documents\visual studio 2013\Projects\Max and min\Max and min\bin\Debug\Max and min.exe
+c:\users\администратор\documents\visual studio 2013\Projects\Max and min\Max and min\bin\Debug\Max and min.pdb
+c:\users\администратор\documents\visual studio 2013\Projects\Max and min\Max and min\obj\Debug\Max and min.exe
+c:\users\администратор\documents\visual studio 2013\Projects\Max and min\Max and min\obj\Debug\Max and min.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Max and min\Max and min\obj\Debug\Max and min.csprojResolveAssemblyReference.cache
