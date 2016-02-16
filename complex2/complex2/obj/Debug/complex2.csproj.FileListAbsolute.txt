@@ -1,0 +1,5 @@
+c:\users\администратор\documents\visual studio 2013\Projects\complex2\complex2\bin\Debug\complex2.exe.config
+c:\users\администратор\documents\visual studio 2013\Projects\complex2\complex2\bin\Debug\complex2.exe
+c:\users\администратор\documents\visual studio 2013\Projects\complex2\complex2\bin\Debug\complex2.pdb
+c:\users\администратор\documents\visual studio 2013\Projects\complex2\complex2\obj\Debug\complex2.exe
+c:\users\администратор\documents\visual studio 2013\Projects\complex2\complex2\obj\Debug\complex2.pdb
